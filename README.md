@@ -2,6 +2,10 @@
 
 This repository hosts the enhanced Siamese Neural Network for one-shot image recognition tasks. The model is based on the original work but includes significant improvements for better performance and generalization.
 
+## Original Work
+The original Siamese Network, as introduced in [this paper](https://paperswithcode.com/paper/siamese-neural-networks-for-one-shot-image), laid the foundation for one-shot image recognition tasks. It introduced the concept of allowing models to classify data points correctly after exposure to only a single example from each class during training.
+The orginal code can be cloned from this [repository](https://github.com/sorenbouma/keras-oneshot/tree/master).
+
 ## Motive
 - Humanizing the concept of machine learning
 - Learn to classify and recognize things with a limited data
